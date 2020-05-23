@@ -1,0 +1,33 @@
+.border-0{
+  border : 0px solid !important;
+}
+.border-1{
+  border : 1px solid !important;
+}
+.border-2{
+  border : 2px solid !important;
+}
+.border-3{
+  border : 3px solid !important;
+}
+.border-4{
+  border : 4px solid !important;
+}
+.border-radius-lg { 
+   border-radius : 25px !important;
+}
+.border-radius-m { 
+   border-radius : 10px !important;
+}
+.border-radius-sm{
+  border-radius: 5px !important
+}
+.border-radius-xs{
+  border-radius: 2px !important
+}
+.border-radius-0{
+  border-radius : 0px !important;
+}
+.circle {
+  border-radius: 50%;
+}

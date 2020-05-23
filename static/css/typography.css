@@ -1,0 +1,105 @@
+.text-title {
+	font-size: 30pt;
+	font-weight: bold;
+}
+.text-heading {
+	font-size: 18pt;
+	font-weight: bold;
+}
+.text-body {
+	font-size: 11pt;
+	font-weight: normal;
+}
+.text-subtitle {
+	font-size: 20pt;
+	font-weight: normal;
+}
+.text-super {
+	font-size: 300%;
+}
+.text-lg {
+	font-size: 250%;
+}
+.text-mg-lg {
+	font-size: 200%;
+}
+.text-md {
+	font-size: 150%;
+}
+.text-smd {
+	font-size: 120%;
+}
+.text-xsmd {
+	font-size: 107%;
+}
+.text-sm {
+	font-size: 90%;
+}
+.text-xs {
+	font-size: 70%;
+}
+.text-super-xs {
+	font-size: 50%;
+}
+.text-code {
+	font-family: monospace;
+}
+.text-basic {
+	text-decoration: none;
+}
+.text-bold {
+	font-weight: bold;
+}
+.text-thin {
+	font-weight: 200;
+}
+/*SMALL */
+@media only screen and (max-width: 992px) {
+	.text-lg {
+		font-size: 200%;
+	}
+	.text-mg-lg {
+		font-size: 150%;
+	}
+	.text-md {
+		font-size: 110%;
+	}
+	.text-sm {
+		font-size: 90%;
+	}
+	.text-xs {
+		font-size: 70%;
+	}
+	.text-super-xs {
+		font-size: 50%;
+	}
+}
+.break-word{
+	word-break: break-all !important;
+}
+.break-hyphens{
+	-webkit-hyphens: auto;
+   -moz-hyphens: auto;
+        hyphens: auto;
+}
+/*LARGE */
+@media only screen and (min-width: 993px) {
+	.text-lg {
+		font-size: 250%;
+	}
+	.text-mg-lg {
+		font-size: 200%;
+	}
+	.text-md {
+		font-size: 150%;
+	}
+	.text-sm {
+		font-size: 90%;
+	}
+	.text-xs {
+		font-size: 70%;
+	}
+	.text-super-xs {
+		font-size: 50%;
+	}
+}

@@ -1,6 +1,6 @@
-# Bites
+# Nuxt-Vuetify
 
-> Bites, Fooding App!
+> My amazing App!
 
 ## Build Setup
 
